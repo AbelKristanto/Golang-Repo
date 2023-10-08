@@ -3,6 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/https:/github.com/AbelKristanto/Golang-Repo.git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Golang-Repo" vcs="Git" />
   </component>
 </project>
